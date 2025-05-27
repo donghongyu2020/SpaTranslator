@@ -60,5 +60,5 @@ You are free to use, modify, and distribute this software for academic and non-c
 
 If you have questions, feature requests, or would like to contribute:
 
-- 💡 **Issues**: Please submit via the [GitHub Issues Page]()
+- 💡 **Issues**: Please submit via the [Github Issue Page](https://github.com/donghongyu2020/SpaTranslator/issues)
 - ✉️ **Email**: `donghongyu@westlake.edu.cn` /  `maosheng@westlake.edu.cn`
